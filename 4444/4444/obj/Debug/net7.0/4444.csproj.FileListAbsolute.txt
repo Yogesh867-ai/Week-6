@@ -1,0 +1,15 @@
+/Users/yogeshgiri/Desktop/web design/4444/4444/bin/Debug/net7.0/4444
+/Users/yogeshgiri/Desktop/web design/4444/4444/bin/Debug/net7.0/4444.deps.json
+/Users/yogeshgiri/Desktop/web design/4444/4444/bin/Debug/net7.0/4444.runtimeconfig.json
+/Users/yogeshgiri/Desktop/web design/4444/4444/bin/Debug/net7.0/4444.dll
+/Users/yogeshgiri/Desktop/web design/4444/4444/bin/Debug/net7.0/4444.pdb
+/Users/yogeshgiri/Desktop/web design/4444/4444/obj/Debug/net7.0/4444.csproj.AssemblyReference.cache
+/Users/yogeshgiri/Desktop/web design/4444/4444/obj/Debug/net7.0/4444.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yogeshgiri/Desktop/web design/4444/4444/obj/Debug/net7.0/4444.AssemblyInfoInputs.cache
+/Users/yogeshgiri/Desktop/web design/4444/4444/obj/Debug/net7.0/4444.AssemblyInfo.cs
+/Users/yogeshgiri/Desktop/web design/4444/4444/obj/Debug/net7.0/4444.csproj.CoreCompileInputs.cache
+/Users/yogeshgiri/Desktop/web design/4444/4444/obj/Debug/net7.0/4444.dll
+/Users/yogeshgiri/Desktop/web design/4444/4444/obj/Debug/net7.0/refint/4444.dll
+/Users/yogeshgiri/Desktop/web design/4444/4444/obj/Debug/net7.0/4444.pdb
+/Users/yogeshgiri/Desktop/web design/4444/4444/obj/Debug/net7.0/4444.genruntimeconfig.cache
+/Users/yogeshgiri/Desktop/web design/4444/4444/obj/Debug/net7.0/ref/4444.dll

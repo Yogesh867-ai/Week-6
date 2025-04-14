@@ -1,0 +1,30 @@
+/Users/yogeshgiri/Desktop/web design/4444/4444/bin/Debug/net7.0/Week3.cs
+/Users/yogeshgiri/Desktop/web design/4444/4444/bin/Debug/net7.0/Week3.cs.deps.json
+/Users/yogeshgiri/Desktop/web design/4444/4444/bin/Debug/net7.0/Week3.cs.runtimeconfig.json
+/Users/yogeshgiri/Desktop/web design/4444/4444/bin/Debug/net7.0/Week3.cs.dll
+/Users/yogeshgiri/Desktop/web design/4444/4444/bin/Debug/net7.0/Week3.cs.pdb
+/Users/yogeshgiri/Desktop/web design/4444/4444/obj/Debug/net7.0/Week3.cs.csproj.AssemblyReference.cache
+/Users/yogeshgiri/Desktop/web design/4444/4444/obj/Debug/net7.0/Week3.cs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yogeshgiri/Desktop/web design/4444/4444/obj/Debug/net7.0/Week3.cs.AssemblyInfoInputs.cache
+/Users/yogeshgiri/Desktop/web design/4444/4444/obj/Debug/net7.0/Week3.cs.AssemblyInfo.cs
+/Users/yogeshgiri/Desktop/web design/4444/4444/obj/Debug/net7.0/Week3.cs.csproj.CoreCompileInputs.cache
+/Users/yogeshgiri/Desktop/web design/4444/4444/obj/Debug/net7.0/Week3.cs.dll
+/Users/yogeshgiri/Desktop/web design/4444/4444/obj/Debug/net7.0/refint/Week3.cs.dll
+/Users/yogeshgiri/Desktop/web design/4444/4444/obj/Debug/net7.0/Week3.cs.pdb
+/Users/yogeshgiri/Desktop/web design/4444/4444/obj/Debug/net7.0/Week3.cs.genruntimeconfig.cache
+/Users/yogeshgiri/Desktop/web design/4444/4444/obj/Debug/net7.0/ref/Week3.cs.dll
+/Users/yogeshgiri/Desktop/BiweeklyWeek-4/4444/4444/bin/Debug/net7.0/Week3.cs
+/Users/yogeshgiri/Desktop/BiweeklyWeek-4/4444/4444/bin/Debug/net7.0/Week3.cs.deps.json
+/Users/yogeshgiri/Desktop/BiweeklyWeek-4/4444/4444/bin/Debug/net7.0/Week3.cs.runtimeconfig.json
+/Users/yogeshgiri/Desktop/BiweeklyWeek-4/4444/4444/bin/Debug/net7.0/Week3.cs.dll
+/Users/yogeshgiri/Desktop/BiweeklyWeek-4/4444/4444/bin/Debug/net7.0/Week3.cs.pdb
+/Users/yogeshgiri/Desktop/BiweeklyWeek-4/4444/4444/obj/Debug/net7.0/Week3.cs.csproj.AssemblyReference.cache
+/Users/yogeshgiri/Desktop/BiweeklyWeek-4/4444/4444/obj/Debug/net7.0/Week3.cs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yogeshgiri/Desktop/BiweeklyWeek-4/4444/4444/obj/Debug/net7.0/Week3.cs.AssemblyInfoInputs.cache
+/Users/yogeshgiri/Desktop/BiweeklyWeek-4/4444/4444/obj/Debug/net7.0/Week3.cs.AssemblyInfo.cs
+/Users/yogeshgiri/Desktop/BiweeklyWeek-4/4444/4444/obj/Debug/net7.0/Week3.cs.csproj.CoreCompileInputs.cache
+/Users/yogeshgiri/Desktop/BiweeklyWeek-4/4444/4444/obj/Debug/net7.0/Week3.cs.dll
+/Users/yogeshgiri/Desktop/BiweeklyWeek-4/4444/4444/obj/Debug/net7.0/refint/Week3.cs.dll
+/Users/yogeshgiri/Desktop/BiweeklyWeek-4/4444/4444/obj/Debug/net7.0/Week3.cs.pdb
+/Users/yogeshgiri/Desktop/BiweeklyWeek-4/4444/4444/obj/Debug/net7.0/Week3.cs.genruntimeconfig.cache
+/Users/yogeshgiri/Desktop/BiweeklyWeek-4/4444/4444/obj/Debug/net7.0/ref/Week3.cs.dll
