@@ -157,6 +157,9 @@ namespace TigerSoccerClub
                 }
 
             }
+            string thank = "*****Thank you for the registration*****";
+            Console.SetCursorPosition((Console.WindowWidth - s.Length) / 2, Console.CursorTop);
+            Console.WriteLine(thank);
 
         }
 

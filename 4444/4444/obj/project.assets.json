@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/yogeshgiri/Desktop/BiweeklyWeek-4/4444/4444/Week3.cs.csproj",
+      "projectUniqueName": "/Users/yogeshgiri/Desktop/Week-6/4444/4444/Week3.cs.csproj",
       "projectName": "Week3.cs",
-      "projectPath": "/Users/yogeshgiri/Desktop/BiweeklyWeek-4/4444/4444/Week3.cs.csproj",
+      "projectPath": "/Users/yogeshgiri/Desktop/Week-6/4444/4444/Week3.cs.csproj",
       "packagesPath": "/Users/yogeshgiri/.nuget/packages/",
-      "outputPath": "/Users/yogeshgiri/Desktop/BiweeklyWeek-4/4444/4444/obj/",
+      "outputPath": "/Users/yogeshgiri/Desktop/Week-6/4444/4444/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/yogeshgiri/.nuget/NuGet/NuGet.Config"
